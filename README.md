@@ -3,6 +3,7 @@
 ## Description
 Portfolio is website that i  disined to to describe who i am mean my background ,job experience , my skills and my hobbies it contain also the links to my projects i did last moth 
 ## Setup/Installation Requirements
+This 
 
 ##  If you click on this link  https://omukankurunziza.github.io/portfolio/ can see my portfolio
 ## Techonologies used 
@@ -16,4 +17,4 @@ Tel:+250785073251
 ### Liccense
 * you can copy and use those codes
  MIT cpoyright(c) {2018}
- * Moringa school
+ 
