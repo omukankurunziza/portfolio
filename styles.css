@@ -6,13 +6,9 @@
     
 }
 }
-.container{text-align:center;
-font-size:30px;
-color:cyan;
-border:10px;
-margin:20px;
-padding:12px;
-font-weight:bold;
+image{float:left;
+padding-top:30px;
+width: 400px;
 }
 h2,h3,h4{
 font-size:24px;
