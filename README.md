@@ -2,7 +2,7 @@
 ## author: Mukankurunziza opportunee 
 ## Description
 Portfolio is website that i  disined to to describe who i am mean my background ,job experience , my skills and my hobbies it contain also the links to my projects i did last moth 
-## Setup/Installation Requirements
+## Technologies used
 * HTML
 * CSS
 * Markdown
